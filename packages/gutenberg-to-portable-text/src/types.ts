@@ -293,7 +293,13 @@ export function attrBoolean(attrs: Record<string, unknown>, key: string): boolea
 	return typeof v === "boolean" ? v : undefined;
 }
 
-function isRecord(v: unknown): v is Record<string, unknown> {
+/** Extract an array attribute, returning an empty array if missing or wrong type */
+export function attrArray(attrs: Record<string, unknown>, key: string): unknown[] {
+	const v = attrs[key];
+	return Array.isArray(v) ? v : [];
+}
+
+export function isRecord(v: unknown): v is Record<string, unknown> {
 	return typeof v === "object" && v !== null && !Array.isArray(v);
 }
 

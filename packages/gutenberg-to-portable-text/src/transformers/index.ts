@@ -5,6 +5,7 @@
 import type { BlockTransformer, PortableTextBlock } from "../types.js";
 import * as core from "./core.js";
 import * as embed from "./embed.js";
+import * as kadence from "./kadence.js";
 
 /**
  * Default block transformers for core WordPress blocks
@@ -57,6 +58,26 @@ export const defaultTransformers: Record<string, BlockTransformer> = {
 	"core-embed/instagram": embed.embed,
 	"core-embed/soundcloud": embed.embed,
 	"core-embed/spotify": embed.embed,
+
+	// Kadence Blocks
+	"kadence/rowlayout": kadence.rowLayout,
+	"kadence/column": kadence.column,
+	"kadence/advancedheading": kadence.advancedHeading,
+	"kadence/advancedbtn": kadence.advancedButtons,
+	"kadence/singlebtn": kadence.singleButton,
+	"kadence/image": kadence.image,
+	"kadence/advancedgallery": kadence.advancedGallery,
+	"kadence/infobox": kadence.infoBox,
+	"kadence/iconlist": kadence.iconList,
+	"kadence/listitem": kadence.listItem,
+	"kadence/tabs": kadence.tabs,
+	"kadence/accordion": kadence.accordion,
+	"kadence/pane": kadence.pane,
+	"kadence/testimonials": kadence.testimonials,
+	"kadence/testimonial": kadence.testimonial,
+	"kadence/countup": kadence.countUp,
+	"kadence/table": kadence.table,
+	"kadence/spacer": kadence.spacer,
 };
 
 /**

@@ -1,0 +1,69 @@
+<!-- wp:kadence/advancedheading {"level":4,"uniqueID":"11_1d0001-c7","markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"link":"/about","linkTarget":true} -->
+<a href="/about" class="kb-advanced-heading-link kt-adv-heading-link11_1d0001-c7" target="_blank" rel="noopener noreferrer"><h4 class="kt-adv-heading11_1d0001-c7 wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading11_1d0001-c7">Linked heading</h4></a>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedheading {"uniqueID":"11_b5204d-78","markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"htmlTag":"p"} -->
+<p class="kt-adv-heading11_b5204d-78 wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading11_b5204d-78">Paragraph-styled heading</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedgallery {"uniqueID":"11_bdfd1b-59","columns":[2,2,2,2,1,1],"ids":[7,6],"showCaption":true,"imagesDynamic":[{"url":"https://example.org/wp-content/uploads/2026/10/office.jpg","thumbUrl":"https://example.org/wp-content/uploads/2026/10/office.jpg","lightUrl":"https://example.org/wp-content/uploads/2026/10/office.jpg","link":"","customLink":"","linkTarget":"","width":1200,"height":800,"alt":"Our Office","id":7,"caption":"Our Office caption","linkSponsored":""},{"url":"https://example.org/wp-content/uploads/2026/10/team-photo.jpg","thumbUrl":"https://example.org/wp-content/uploads/2026/10/team-photo.jpg","lightUrl":"https://example.org/wp-content/uploads/2026/10/team-photo.jpg","link":"","customLink":"","linkTarget":"","width":1200,"height":800,"alt":"Our Team","id":6,"caption":"Our Team caption","linkSponsored":""}],"kbVersion":2} /-->
+
+<!-- wp:kadence/infobox {"uniqueID":"11_586662-2f","mediaType":"image","mediaImage":[{"url":"https://example.org/wp-content/uploads/2026/10/office.jpg","id":7,"alt":"Our Office","width":300,"height":200,"maxWidth":100,"hoverAnimation":"none","flipUrl":"","flipId":"","flipAlt":"","flipWidth":"","flipHeight":"","subtype":"jpeg","flipSubtype":""}],"kbVersion":2} -->
+<div class="wp-block-kadence-infobox kt-info-box11_586662-2f"><a class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center" href="/photo"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-image-inner-intrisic-container"><div class="kadence-info-box-image-intrisic kt-info-animate-none"><div class="kadence-info-box-image-inner-intrisic"><img src="https://example.org/wp-content/uploads/2026/10/office.jpg" alt="Our Office" width="300" height="200" class="kt-info-box-image wp-image-7"/></div></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title">Photo box</h2><p class="kt-blocks-info-box-text">Box text.</p></div></a></div>
+<!-- /wp:kadence/infobox -->
+
+<!-- wp:kadence/iconlist {"uniqueID":"11_04ab58-6c"} -->
+<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items11_04ab58-6c kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list"><!-- wp:kadence/listitem {"uniqueID":"11_3a8168-9e","icon":"fe_checkCircle"} -->
+<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-11_3a8168-9e"><span data-name="fe_checkCircle" data-stroke="USE_PARENT_DEFAULT_WIDTH" data-class="kt-svg-icon-list-single" class="kadence-dynamic-icon"></span><span class="kt-svg-icon-list-text">Parent item</span></li>
+<!-- /wp:kadence/listitem -->
+
+<!-- wp:kadence/listitem {"uniqueID":"11_1227cf-8a","icon":"fe_checkCircle","link":"https://example.org/child","target":"_blank","level":1} -->
+<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-11_1227cf-8a kt-svg-icon-list-level-1"><a href="https://example.org/child" class="kt-svg-icon-link" target="_blank" rel="noopener noreferrer"><span data-name="fe_checkCircle" data-stroke="USE_PARENT_DEFAULT_WIDTH" data-class="kt-svg-icon-list-single" class="kadence-dynamic-icon"></span><span class="kt-svg-icon-list-text">Child item</span></a></li>
+<!-- /wp:kadence/listitem --></ul></div>
+<!-- /wp:kadence/iconlist -->
+
+<!-- wp:kadence/table {"uniqueID":"11_33853e-83","columns":2,"isFirstRowHeader":true} -->
+<!-- wp:kadence/table-row {"uniqueID":"11_ff04d7-70","row":0} -->
+<!-- wp:kadence/table-data {"uniqueID":"11_12067f-f8","column":0} -->
+<!-- wp:paragraph -->
+<p>Name</p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+
+<!-- wp:kadence/table-data {"uniqueID":"11_f1198d-da","column":1} -->
+<!-- wp:paragraph -->
+<p>Role</p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+<!-- /wp:kadence/table-row -->
+
+<!-- wp:kadence/table-row {"uniqueID":"11_5f6660-3c","row":1} -->
+<!-- wp:kadence/table-data {"uniqueID":"11_6c1104-4c","column":0} -->
+<!-- wp:paragraph -->
+<p><strong>Ann</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Second line</p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+
+<!-- wp:kadence/table-data {"uniqueID":"11_810d03-7d","column":1} -->
+<!-- wp:paragraph -->
+<p><a href="/team">Lead</a></p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+<!-- /wp:kadence/table-row -->
+<!-- /wp:kadence/table -->
+
+<!-- wp:kadence/countup {"uniqueID":"11_5457fd-63","title":"Raised","end":1250000,"prefix":"$","suffix":"+","separator":","} -->
+<div class="wp-block-kadence-countup kb-count-up-11_5457fd-63 kb-count-up" data-start="0" data-end="1250000" data-prefix="$" data-suffix="+" data-duration="2.5" data-separator=","><div class="kb-count-up-process kb-count-up-number"></div><div class="kb-count-up-title">Raised</div></div>
+<!-- /wp:kadence/countup -->
+
+<!-- wp:kadence/rowlayout {"uniqueID":"11_82d1e5-7f","columns":1} -->
+<!-- wp:kadence/column -->
+<div class="wp-block-kadence-column"><div class="kt-inside-inner-col"><!-- wp:paragraph -->
+<p>Single column content.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout -->

@@ -1,0 +1,125 @@
+<!-- wp:kadence/rowlayout {"uniqueID":"4_b3855e-13","colLayout":"equal","kbVersion":2} -->
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"4_3efa1c-23","kbVersion":2} -->
+<div class="wp-block-kadence-column kadence-column4_3efa1c-23"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"4_079eb5-ca","markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}]} -->
+<h2 class="kt-adv-heading4_079eb5-ca wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading4_079eb5-ca">Our <strong>Services</strong></h2>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:paragraph -->
+<p>We build websites for nonprofits and churches.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:kadence/advancedbtn {"uniqueID":"4_915357-e7"} -->
+<div class="wp-block-kadence-advancedbtn kb-buttons-wrap kb-btns4_915357-e7"><!-- wp:kadence/singlebtn {"uniqueID":"4_f39516-15","text":"Contact Us","link":"/contact"} /-->
+
+<!-- wp:kadence/singlebtn {"uniqueID":"4_5e406d-b2","text":"See Our Work","link":"https://example.org/work","target":"_blank"} /--></div>
+<!-- /wp:kadence/advancedbtn --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"4_34f83f-a6","kbVersion":2} -->
+<div class="wp-block-kadence-column kadence-column4_34f83f-a6"><div class="kt-inside-inner-col"><!-- wp:kadence/image {"id":6,"uniqueID":"4_d8d182-5b"} -->
+<figure class="wp-block-kadence-image kb-image4_d8d182-5b"><img src="https://example.org/wp-content/uploads/2026/10/team-photo.jpg" alt="Our team" class="kb-img wp-image-6"/><figcaption>The team at work</figcaption></figure>
+<!-- /wp:kadence/image --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout -->
+
+<!-- wp:kadence/advancedheading {"level":3,"uniqueID":"4_551c05-6d","markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}]} -->
+<h3 class="kt-adv-heading4_551c05-6d wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading4_551c05-6d">Why choose us</h3>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/infobox {"uniqueID":"4_e68f50-ff","displayLearnMore":true,"kbVersion":2} -->
+<div class="wp-block-kadence-infobox kt-info-box4_e68f50-ff"><a class="kt-blocks-info-box-link-wrap info-box-link kt-blocks-info-box-media-align-top kt-info-halign-center" href="/services"><div class="kt-blocks-info-box-media-container"><div class="kt-blocks-info-box-media kt-info-media-animate-none"><div class="kadence-info-box-icon-container kt-info-icon-animate-none"><div class="kadence-info-box-icon-inner-container"><span data-name="fe_aperture" data-stroke="2" data-class="kt-info-svg-icon" class="kadence-dynamic-icon"></span></div></div></div></div><div class="kt-infobox-textcontent"><h2 class="kt-blocks-info-box-title">Strategy</h2><p class="kt-blocks-info-box-text">We plan your launch from day one.</p><div class="kt-blocks-info-box-learnmore-wrap"><span class="kt-blocks-info-box-learnmore">Learn More</span></div></div></a></div>
+<!-- /wp:kadence/infobox -->
+
+<!-- wp:kadence/iconlist {"uniqueID":"4_140401-65"} -->
+<div class="wp-block-kadence-iconlist kt-svg-icon-list-items kt-svg-icon-list-items4_140401-65 kt-svg-icon-list-columns-1 alignnone"><ul class="kt-svg-icon-list"><!-- wp:kadence/listitem {"uniqueID":"4_dcff38-d0","icon":"fe_checkCircle"} -->
+<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-4_dcff38-d0"><span data-name="fe_checkCircle" data-stroke="USE_PARENT_DEFAULT_WIDTH" data-class="kt-svg-icon-list-single" class="kadence-dynamic-icon"></span><span class="kt-svg-icon-list-text">Fast delivery</span></li>
+<!-- /wp:kadence/listitem -->
+
+<!-- wp:kadence/listitem {"uniqueID":"4_79f8ec-c9","icon":"fe_checkCircle","link":"/pricing"} -->
+<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-4_79f8ec-c9"><a href="/pricing" class="kt-svg-icon-link"><span data-name="fe_checkCircle" data-stroke="USE_PARENT_DEFAULT_WIDTH" data-class="kt-svg-icon-list-single" class="kadence-dynamic-icon"></span><span class="kt-svg-icon-list-text">Fair <em>pricing</em></span></a></li>
+<!-- /wp:kadence/listitem -->
+
+<!-- wp:kadence/listitem {"uniqueID":"4_ecc769-57","icon":"fe_checkCircle"} -->
+<li class="wp-block-kadence-listitem kt-svg-icon-list-item-wrap kt-svg-icon-list-item-4_ecc769-57"><span data-name="fe_checkCircle" data-stroke="USE_PARENT_DEFAULT_WIDTH" data-class="kt-svg-icon-list-single" class="kadence-dynamic-icon"></span><span class="kt-svg-icon-list-text">Local support</span></li>
+<!-- /wp:kadence/listitem --></ul></div>
+<!-- /wp:kadence/iconlist -->
+
+<!-- wp:kadence/tabs {"uniqueID":"4_4da3b1-0f","tabCount":2,"titles":[{"text":"Overview","icon":"","iconSide":"right","onlyIcon":false,"subText":"","anchor":""},{"text":"Pricing","icon":"","iconSide":"right","onlyIcon":false,"subText":"","anchor":""}]} -->
+<div class="wp-block-kadence-tabs alignnone"><div class="kt-tabs-wrap kt-tabs-id4_4da3b1-0f kt-tabs-has-2-tabs kt-active-tab-1 kt-tabs-layout-tabs kt-tabs-tablet-layout-inherit kt-tabs-mobile-layout-inherit kt-tab-alignment-left "><ul class="kt-tabs-title-list"><li id="tab-overview" class="kt-title-item kt-title-item-1 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-active"><a href="#tab-overview" data-tab="1" class="kt-tab-title kt-tab-title-1 "><span class="kt-title-text">Overview</span></a></li><li id="tab-pricing" class="kt-title-item kt-title-item-2 kt-tabs-svg-show-always kt-tabs-icon-side-right kt-tab-title-inactive"><a href="#tab-pricing" data-tab="2" class="kt-tab-title kt-tab-title-2 "><span class="kt-title-text">Pricing</span></a></li></ul><div class="kt-tabs-content-wrap"><!-- wp:kadence/tab {"uniqueID":"4_0eee94-bc"} -->
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-1 kt-inner-tab4_0eee94-bc"><div class="kt-tab-inner-content-inner"><!-- wp:paragraph -->
+<p>Overview: everything you need to launch.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:kadence/tab -->
+
+<!-- wp:kadence/tab {"id":2,"uniqueID":"4_c91481-ed"} -->
+<div class="wp-block-kadence-tab kt-tab-inner-content kt-inner-tab-2 kt-inner-tab4_c91481-ed"><div class="kt-tab-inner-content-inner"><!-- wp:paragraph -->
+<p>Pricing: flat monthly fee, no surprises.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:kadence/tab --></div></div></div>
+<!-- /wp:kadence/tabs -->
+
+<!-- wp:kadence/accordion {"uniqueID":"4_146ba9-47"} -->
+<div class="wp-block-kadence-accordion alignnone"><div class="kt-accordion-wrap kt-accordion-id4_146ba9-47 kt-accordion-has-2-panes kt-active-pane-0 kt-accordion-block kt-pane-header-alignment-left kt-accodion-icon-style-basic kt-accodion-icon-side-right" style="max-width:none"><div class="kt-accordion-inner-wrap" data-allow-multiple-open="false" data-start-open="0"><!-- wp:kadence/pane {"uniqueID":"4_deb59b-7a"} -->
+<div class="wp-block-kadence-pane kt-accordion-pane kt-accordion-pane-1 kt-pane4_deb59b-7a"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header kt-acccordion-button-label-show" type="button"><span class="kt-blocks-accordion-title-wrap"><span class="kt-blocks-accordion-title">Do you work with churches?</span></span><span class="kt-blocks-accordion-icon-trigger"></span></button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner"><!-- wp:paragraph -->
+<p>Yes, many of our clients are churches.</p>
+<!-- /wp:paragraph --></div></div></div>
+<!-- /wp:kadence/pane -->
+
+<!-- wp:kadence/pane {"id":2,"uniqueID":"4_6bf63b-b7"} -->
+<div class="wp-block-kadence-pane kt-accordion-pane kt-accordion-pane-2 kt-pane4_6bf63b-b7"><div class="kt-accordion-header-wrap"><button class="kt-blocks-accordion-header kt-acccordion-button-label-show" type="button"><span class="kt-blocks-accordion-title-wrap"><span class="kt-blocks-accordion-title">How long does a site take?</span></span><span class="kt-blocks-accordion-icon-trigger"></span></button></div><div class="kt-accordion-panel"><div class="kt-accordion-panel-inner"><!-- wp:paragraph -->
+<p>Usually four to six weeks.</p>
+<!-- /wp:paragraph --></div></div></div>
+<!-- /wp:kadence/pane --></div></div></div>
+<!-- /wp:kadence/accordion -->
+
+<!-- wp:kadence/testimonials {"uniqueID":"4_9023e6-cc","mediaStyles":[{"width":60,"backgroundSize":"cover","background":"","backgroundOpacity":1,"border":"","borderRadius":"","borderWidth":[0,0,0,0],"padding":["","","",""],"margin":["","","",""],"ratio":""}],"mediaPadding":[0,0,0,0],"mediaBorderStyle":[{"top":["","",0],"right":["","",0],"bottom":["","",0],"left":["","",0],"unit":"px"}],"titleFont":[{"color":"","level":2,"size":["","",""],"sizetype":"px","lineHeight":["","",""],"linetype":"px","letterSpacing":"","textTransform":"","family":"","google":false,"style":"","weight":"","variant":"","subset":"","loadGoogle":true,"padding":[0,0,0,0],"margin":["","","",""]}],"ratingStyles":[{"color":"#ffd700","size":16,"margin":["","","",""],"iconSpacing":"","icon":"fas_star","stroke":2}],"kbVersion":2} -->
+<!-- wp:kadence/testimonial {"uniqueID":"4_878d9e-55","title":"Fantastic","content":"They rebuilt our site in a week.","name":"Jane Doe","occupation":"Director"} /-->
+
+<!-- wp:kadence/testimonial {"uniqueID":"4_c62ac0-60","title":"Reliable","content":"Always quick to respond.","name":"John Smith","occupation":"Pastor"} /-->
+<!-- /wp:kadence/testimonials -->
+
+<!-- wp:kadence/countup {"uniqueID":"4_09a4c0-50","title":"Sites launched","end":250} -->
+<div class="wp-block-kadence-countup kb-count-up-4_09a4c0-50 kb-count-up" data-start="0" data-end="250" data-prefix="" data-suffix="" data-duration="2.5" data-separator=""><div class="kb-count-up-process kb-count-up-number"></div><div class="kb-count-up-title">Sites launched</div></div>
+<!-- /wp:kadence/countup -->
+
+<!-- wp:kadence/table {"uniqueID":"4_1ebd70-41","columns":2} -->
+<!-- wp:kadence/table-row {"uniqueID":"4_abe824-f6","row":0} -->
+<!-- wp:kadence/table-data {"uniqueID":"4_f680d5-66","column":0} -->
+<!-- wp:paragraph -->
+<p>Plan</p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+
+<!-- wp:kadence/table-data {"uniqueID":"4_676458-ab","column":1} -->
+<!-- wp:paragraph -->
+<p>Price</p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+<!-- /wp:kadence/table-row -->
+
+<!-- wp:kadence/table-row {"uniqueID":"4_fcab47-76","row":1} -->
+<!-- wp:kadence/table-data {"uniqueID":"4_3c0cd7-31","column":0} -->
+<!-- wp:paragraph -->
+<p>Basic</p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+
+<!-- wp:kadence/table-data {"uniqueID":"4_9111fa-ad","column":1} -->
+<!-- wp:paragraph -->
+<p>$99/mo</p>
+<!-- /wp:paragraph -->
+<!-- /wp:kadence/table-data -->
+<!-- /wp:kadence/table-row -->
+<!-- /wp:kadence/table -->
+
+<!-- wp:kadence/spacer {"uniqueID":"4_45a476-17"} -->
+<div class="wp-block-kadence-spacer aligncenter kt-block-spacer-4_45a476-17"><div class="kt-block-spacer kt-block-spacer-halign-center"><hr class="kt-divider"/></div></div>
+<!-- /wp:kadence/spacer -->
+
+<!-- wp:kadence/image {"id":7,"uniqueID":"4_b06d50-36"} -->
+<figure class="wp-block-kadence-image kb-image4_b06d50-36"><img src="https://example.org/wp-content/uploads/2026/10/office.jpg" alt="Our office" class="kb-img wp-image-7"/></figure>
+<!-- /wp:kadence/image -->
+
+<!-- wp:paragraph -->
+<p>Closing paragraph in a core block.</p>
+<!-- /wp:paragraph -->

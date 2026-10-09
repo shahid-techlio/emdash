@@ -78,6 +78,7 @@ export type {
 export { defaultTransformers, fallbackTransformer } from "./transformers/index.js";
 export * as coreTransformers from "./transformers/core.js";
 export * as embedTransformers from "./transformers/embed.js";
+export * as kadenceTransformers from "./transformers/kadence.js";
 
 // Re-export inline utilities
 export {
